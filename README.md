@@ -10,14 +10,17 @@ shell scripts for installing and enabling .net core on debian raspberry pi 3 b+
 ```
 chmod +x 
 ```
+
 - Execute both .sh files
 -- first dotnetsetup.sh
 -- second environmentvariables.sh
+
 ```
 ./dotnetsetup.sh
-``
+```
 
 - Install ESPEAK 
+
 ```
 sudo apt-get install espeak
 ```
